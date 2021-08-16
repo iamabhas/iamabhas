@@ -15,8 +15,8 @@
     <a href="https://www.learn-c.org/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://www.java.com"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.w3.org/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://devdocs.io/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
