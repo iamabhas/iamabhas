@@ -1,8 +1,8 @@
-# Hi 👋🏼, I'm [Abhas][website]
+## Hi 👋🏼, I'm [Abhas][website]
 
 [ABHASK.COM][website]
 
-## I'm a Developer
+# I'm a Developer
 
 - 💻 Web development (Fullstack)
 - 🔍 Ready to adapt to new technologies
