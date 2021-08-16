@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi 👋🏼, I'm [Abhas][website]
 
-<!--
-**iamabhas/iamabhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[ABHASK.COM][website]
 
-Here are some ideas to get you started:
+## I'm a Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Web development (Fullstack)
+- 🔍 Ready to adapt to new technologies
+- 📖 Constantly learning
+
+[website]: https://abhask.com
+[linkedin]: https://www.linkedin.com/in/abhas-khanal
+[instagram]: https://www.instagram.com/bear.who.wrestled.khabib/?hl=en
