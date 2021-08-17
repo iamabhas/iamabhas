@@ -4,8 +4,7 @@
 ## About
 
 - 💻 Web development (Fullstack)
-- 🔍 Ready to adapt to new technologies
-- 📚 Constantly learning
+- 📚 Constantly learning & ready to adapt to new technologies
 - 🌐 [ABHASK.COM](https://abhask.com) ( Coming Soon ! )
 
 ## Skills & Tools :
