@@ -23,13 +23,11 @@
     <a href="https://figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
     <a href="https://www.linux.org/"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
 </p>
-<br/>
 
 ## Overview
   <a href="https://github.com/iamabhas/github-readme-stats"><img alt="Abhas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note : </b>My most used languages doesn't reflect experience or skill level !
-  <br/>
   
  ## Socials 
 <p align="left">
