@@ -7,7 +7,7 @@
 - 📚 Constantly learning & ready to adapt to new technologies
 - 🌐 [ABHASK.COM](https://abhask.com) ( Coming Soon ! )
 
-## Skills & Tools :
+## Skills & Tools 
 <p align="left">  
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
