@@ -24,7 +24,7 @@
 </p>
 <br/>
 
-## My Github overview
+## Github overview
   <br/>
   <a href="https://github.com/iamabhas/github-readme-stats"><img alt="Abhas's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabhas&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
