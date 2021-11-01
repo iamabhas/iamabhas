@@ -3,7 +3,7 @@
 
 ## About
 
-- 💻 Im a full stack web developer who's passionate about creating web applications
+- 💻 Im learning full stack web development and passionate about creating web applications
 - 📚 Im Constantly learning & ready to adapt to new technologies
 - 📺 I love watching anime and sports on my free time 
 - 🌐 [ABHASK.COM](https:/abhask.com) ( Personal page -> Coming Soon ! )
