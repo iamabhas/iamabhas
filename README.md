@@ -3,9 +3,11 @@
 
 ## About
 
-- 💻 Web development (Fullstack)
-- 📚 Constantly learning & ready to adapt to new technologies
-- 🌐 [ABHASK.COM](https://abhask.com) ( Coming Soon ! )
+- 💻 Im a full stack web developer who's passionate about creating web applications
+- 📚 Im Constantly learning & ready to adapt to new technologies
+- 📺 I love watching anime and sports on my free time 
+- 🌐 [ABHASK.COM](https:/abhask.com) ( Personal page -> Coming Soon ! )
+
 
 ## Skills & Tools 
 <p align="left">  
@@ -13,7 +15,6 @@
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
     <a href="https://www.learn-c.org/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.java.com"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://devdocs.io/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
