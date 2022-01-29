@@ -5,8 +5,7 @@
 
 - 💻 Currently learning full stack web development
 - 📚 Im Constantly learning & ready to adapt to new technologies
-- 📺 I love watching anime and reading books on my free time 
-- 🌐 [ABHASK.COM](https:/abhask.com) ( Personal page -> Coming Soon ! )
+- 🌐 [ABHASK.COM](https:/abhask.com)
 
 
 ## Skills & Tools 
