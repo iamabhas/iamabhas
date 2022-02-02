@@ -16,7 +16,7 @@
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
-     <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
+     <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.learn-c.org/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
