@@ -10,18 +10,21 @@
 
 ## Skills & Tools 
 <p align="left">  
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
-    <a href="https://www.learn-c.org/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-    <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.linux.org/"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
     <a href="https://devdocs.io/html/"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://sass-lang.com/"> <img src="https://img.icons8.com/color/48/000000/sass.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://reactjs.org/"> <img src="https://img.icons8.com/office/40/000000/react.png"/> </a>
+     <a href="https://nodejs.org/en/"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
+    <a href="https://www.learn-c.org/"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
+    <a href="https://isocpp.org/"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
     <a href="https://firebase.google.com/"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
     <a href="https://figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
-    <a href="https://www.linux.org/"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
+    <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+    <a href="https://www.vim.org/"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/> </a>
+    
 </p>
   
  ## Socials 
