@@ -23,8 +23,6 @@
     <a href="https://git-scm.com/"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://figma.com/"> <img src="https://img.icons8.com/color/48/000000/figma.png"/> </a>
     <a href="https://code.visualstudio.com/"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
-    <a href="https://www.vim.org/"> <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-vim-a-highly-configurable-text-editor-for-efficiently-creating-and-changing-any-kind-of-text-logo-filled-tal-revivo.png"/> </a>
-    
 </p>
   
  ## Socials 
