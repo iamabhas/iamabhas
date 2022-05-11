@@ -4,7 +4,6 @@
 
 - 💻 Currently learning full stack web development
 - 📚 Im Constantly learning & ready to adapt to new technologies
-- 🌐 [ABHASK.COM](https:/abhask.com)
  
  ## Socials 
 <p align="left">
